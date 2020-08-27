@@ -1,0 +1,7 @@
+{
+  "name": "iMaps",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
